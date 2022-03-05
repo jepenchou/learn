@@ -2,6 +2,6 @@ package study
 
 import "time"
 
-func getTime() time.Time {
+func GetTime() time.Time {
 	return time.Now()
 }
